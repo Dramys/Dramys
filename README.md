@@ -31,10 +31,10 @@ I'm Raphaël ; a student making its way out by learning codes throught different
 ## 💬 Fun Facts
 - I play badminton quite often, 3 times a week actually
 - Car enjoyer :
--  https://cdn.simpleicons.org/{bmw}/{0066B1}
--  https://cdn.simpleicons.org/{lamborghini}/{B6A272}
--  https://cdn.simpleicons.org/{maserati}/{0C2340}
--  https://cdn.simpleicons.org/{bugatti}/{000000}
--  https://cdn.simpleicons.org/{lamborghini}/{B6A272}
+-  https://cdn.simpleicons.org/bmw/0066B1
+-  https://cdn.simpleicons.org/lamborghini/B6A272
+-  https://cdn.simpleicons.org/maserati/0C2340
+-  https://cdn.simpleicons.org/bugatti/000000
+-  https://cdn.simpleicons.org/lamborghini/B6A272
 
 ---

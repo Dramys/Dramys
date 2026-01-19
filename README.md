@@ -32,8 +32,8 @@ I'm Raphaël ; a student making its way out by learning codes throught different
 - I play badminton quite often, 3 times a week actually
 - Car enjoyer :
 [![BMW](https://img.shields.io/badge/-BMW-0066B1?style=flat&logo=bmw&logoColor=white)](https://www.bmw.com)
-[![LAMBORGHINI](https://img.shields.io/badge/-LAMBORGHINI-B6A272?style=flat&logo=bmw&logoColor=white)](https://www.lamborghini.com)
-[![MASERATI](https://img.shields.io/badge/-MASERATI-000000?style=flat&logo=bmw&logoColor=white)](https://www.maserati.com)
-[![BUGATTI](https://img.shields.io/badge/-BUGATTI-B6A272?style=flat&logo=bmw&logoColor=white)](https://www.bugatti.com)
+[![LAMBORGHINI](https://img.shields.io/badge/-LAMBORGHINI-B6A272?style=flat&logo=lamborghini&logoColor=white)](https://www.lamborghini.com)
+[![MASERATI](https://img.shields.io/badge/-MASERATI-000000?style=flat&logo=maserati&logoColor=white)](https://www.maserati.com)
+[![BUGATTI](https://img.shields.io/badge/-BUGATTI-B6A272?style=flat&logo=bugatti&logoColor=white)](https://www.bugatti.com)
 
 ---

@@ -37,6 +37,6 @@ I'm Raphaël ; a student making its way out by learning codes throught different
 -  https://cdn.simpleicons.org/bugatti/000000
 -  https://cdn.simpleicons.org/lamborghini/B6A272
 
-![BMW](https://cdn.simpleicons.org/bmw/0066B1)
+[![BMW](https://img.shields.io/badge/-BMW-0066B1?style=flat&logo=bmw&logoColor=white)](https://www.bmw.com)
 
 ---
